@@ -1,0 +1,4 @@
+name<-"keerthivasan"
+age<-"89"
+print(name)
+print(age)
